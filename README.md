@@ -32,8 +32,10 @@ print("rows",len(df.axes[1]))
 ~~~
 
 ## OUTPUT:
-![DOC](./H.png)
-![DOC](./HH.png)
+![DOC](https://user-images.githubusercontent.com/93427208/153541366-7a25e28b-8b92-4361-99e7-c5585032ec81.png)
+
+![DOC]![HH](https://user-images.githubusercontent.com/93427208/153541394-15734c53-e90e-4d97-95ac-024266017dfe.png)
+
 
 
 ## RESULT:
